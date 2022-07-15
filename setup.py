@@ -23,7 +23,7 @@ setuptools.setup(
         "jupyter-server-proxy==1.3.2",
         "matplotlib",
         "dask==2.12.0",
-        "distributed==2.12.0",
+        "distributed==2021.10.0",
         "dask-jobqueue==0.7.0",
         "dask-labextension==2.0.1",
         "tifffile>=2020.2.16",
@@ -63,7 +63,7 @@ setuptools.setup(
 #     - bokeh==1.4.0
 #     - click==7.1.1
 #     - cloudpickle==1.3.0
-#     - distributed==2.12.0
+#     - distributed==2021.10.0
 #     - importlib-metadata==1.6.0
 #     - pytz==2019.3
 #     - zipp==3.1.0
